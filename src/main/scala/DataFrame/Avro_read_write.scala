@@ -41,6 +41,7 @@ object Avro_read_write {
   */
 
 
+
  /* spark.read.format("avro")
       .load("D:\\Development\\xxxplatform\\SparkExample\\src\\main\\scala\\DataFrame\\person.avro")
       .where(col("year")===2010)
@@ -60,6 +61,9 @@ object Avro_read_write {
 
     spark.sqlContext.sql("CREATE TEMPORARY VIEW PERSON USING avro OPTIONS (path \"D:/Development/xxxplatform/SparkExample/src/main/scala/DataFrame/person.avro\")")
     spark.sqlContext.sql("select * from PERSON").show()
+
+
+
   }
 
 }

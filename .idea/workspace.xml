@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887dfc88-006e-4504-92d9-2c2518f465f2" name="Default Changelist" comment="" />
+    <list default="true" id="887dfc88-006e-4504-92d9-2c2518f465f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/CollectExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/Filter_where.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/JoinExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/MapPartitions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/NestedColumns.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/Pivot_UnPivot.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/SQLDistinct.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/SortExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/WindowFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/WithColumn.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/ActionMovies.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/AverageMovieRating.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/BroadCastVariable_AVG_Movie_Rat.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/MovieRatingCounter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/ratings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Linux_file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/SparkContextOld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/invalid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/test01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/text02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/text03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/text04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Spark_Optimization_Technique/KryoExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Streaming/StateFulTransformation/MapWithStateDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Streaming/StateFulTransformation/TestMapWithState.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Streaming/StateFulTransformation/UpdateStateByKey.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/DataFrame/Avro_read_write.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/Avro_read_write.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/SparkExample/ReadMultipleCSV.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SparkExample/ReadMultipleCSV.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataFrame/Avro_read_write$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataFrame/Avro_read_write$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SparkExample/ReadMultipleCSV$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SparkExample/ReadMultipleCSV$.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +44,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,8 +59,10 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ir8ZtXDxhozkyDoBOtLjHy9Wq0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/Streaming/Streaming_input" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/Data_analysis_2" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -38,11 +77,11 @@
       <recent name="DataFrame_SparkSQL_part_2.SparkSQL" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\xxxplatform\SparkExample\src\main\scala\Data_analysis_2" />
       <recent name="D:\Development\xxxplatform\SparkExample\src\main\scala\Streaming\Streaming_input" />
       <recent name="D:\Development\xxxplatform\SparkExample\src\main\scala\DataFrame_SparkSQL_part_2" />
       <recent name="D:\Development\xxxplatform\SparkExample\src\main\scala\Data_analysis" />
       <recent name="D:\Development\xxxplatform\SparkExample\src\main\scala\DataFrame" />
-      <recent name="D:\Development\xxxplatform\SparkExample\src\main\scala\SparkExample" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,14 +96,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Diff_Map_vs_Transform">
-    <configuration name="Diff_Map_vs_Transform" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.UpdateStateByKey">
+    <configuration name="FileAlreadyExistProblem" type="Application" factoryName="Application" temporary="true">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Streaming.Diff_Map_vs_Transform" />
+      <option name="MAIN_CLASS_NAME" value="Practice.FileAlreadyExistProblem" />
       <module name="SparkExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streaming.*" />
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapWithStateDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Streaming.StateFulTransformation.MapWithStateDemo" />
+      <module name="SparkExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streaming.StateFulTransformation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,13 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleStructuredStreaming" type="Application" factoryName="Application" temporary="true">
+    <configuration name="TestMapWithState" type="Application" factoryName="Application" temporary="true">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Streaming.SimpleStructuredStreaming" />
+      <option name="MAIN_CLASS_NAME" value="Streaming.StateFulTransformation.TestMapWithState" />
       <module name="SparkExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streaming.*" />
+          <option name="PATTERN" value="Streaming.StateFulTransformation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,13 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streaming_to_mysql" type="Application" factoryName="Application" temporary="true">
+    <configuration name="UpdateStateByKey" type="Application" factoryName="Application" temporary="true">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Streaming.Streaming_to_mysql" />
+      <option name="MAIN_CLASS_NAME" value="Streaming.StateFulTransformation.UpdateStateByKey" />
       <module name="SparkExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streaming.*" />
+          <option name="PATTERN" value="Streaming.StateFulTransformation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,22 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streaming_to_mysql_1" type="Application" factoryName="Application" temporary="true">
-      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Streaming_to_mysql" />
-      <module name="SparkExample" />
-      <option name="ENABLE_SWING_INSPECTOR" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UpdateByKey" type="Application" factoryName="Application" temporary="true">
-      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Streaming.UpdateByKey" />
+    <configuration name="WindowFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="DataFrame.WindowFunction" />
       <module name="SparkExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streaming.*" />
+          <option name="PATTERN" value="DataFrame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,19 +180,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleStructuredStreaming" />
-      <item itemvalue="Application.Streaming_to_mysql" />
-      <item itemvalue="Application.Streaming_to_mysql_1" />
-      <item itemvalue="Application.UpdateByKey" />
-      <item itemvalue="Application.Diff_Map_vs_Transform" />
+      <item itemvalue="Application.WindowFunction" />
+      <item itemvalue="Application.FileAlreadyExistProblem" />
+      <item itemvalue="Application.TestMapWithState" />
+      <item itemvalue="Application.MapWithStateDemo" />
+      <item itemvalue="Application.UpdateStateByKey" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Diff_Map_vs_Transform" />
-        <item itemvalue="Application.UpdateByKey" />
-        <item itemvalue="Application.Streaming_to_mysql_1" />
-        <item itemvalue="Application.Streaming_to_mysql" />
-        <item itemvalue="Application.SimpleStructuredStreaming" />
+        <item itemvalue="Application.UpdateStateByKey" />
+        <item itemvalue="Application.MapWithStateDemo" />
+        <item itemvalue="Application.TestMapWithState" />
+        <item itemvalue="Application.FileAlreadyExistProblem" />
+        <item itemvalue="Application.WindowFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -183,5 +226,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

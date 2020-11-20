@@ -11,7 +11,7 @@ object ReadMultipleCSV {
 
 
 
-    val RDD_CSV = sc.textFile("C:\\Users\\nanda\\Documents\\CloudxLab\\files\\text01.txt")
+    val RDD_CSV = sc.textFile("C:\\Users\\nanda\\Documents\\CloudxLab\\files\\text01.csv")
     println(RDD_CSV.getClass)
     println(RDD_CSV.getNumPartitions)
    val rdd = RDD_CSV.map(f=> {f.split(",")})

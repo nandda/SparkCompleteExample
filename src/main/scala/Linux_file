@@ -1,0 +1,40 @@
+1)AWK OPERATION
++++++++++++++++
+(a) Scans a file line by line
+(b) Splits each input line into fields
+(c) Compares input line/fields to pattern
+(d) Performs action(s) on matched lines
+
+
+2)UseFul For:
++++++++++++++
+(a) Transform data files
+(b) Produce formatted reports
+
+3)Programming Constructs:
+++++++++++++++++++++++++
+(a) Format output lines
+(b) Arithmetic and string operations
+(c) Conditionals and loops
+
+1. Default behavior of Awk : By default Awk prints every line of data from the specified file.
+$ awk '{print}' employee.txt
+
+2. Print the lines which matches with the given pattern.
+$ awk '/manager/ {print}' employee.txt
+
+3.the awk command splits the record delimited by whitespace character by default and stores it in the $n variables
+$ awk '{print $1,$4}' employee.txt
+
+4.the awk command to print with line number
+$ awk '{print NR,$0}' employee.txt
+
+5.Use of NF built-in variables (Display Last Field)
+$ awk '{print $1,$NF}' employee.txt
+
+6.Another use of NR built-in variables (Display Line From 3 to 6)
+$ awk 'NR==3, NR==6 {print NR,$0}' employee.txt
+
+7.To print the squares of first numbers from 1 to n say 6:
+$ awk 'BEGIN { for(i=1;i<=6;i++) print "square of", i, "is",i*i; }'
+
