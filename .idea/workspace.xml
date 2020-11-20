@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887dfc88-006e-4504-92d9-2c2518f465f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/CollectExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/Filter_where.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/JoinExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/MapPartitions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/NestedColumns.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/Pivot_UnPivot.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/SQLDistinct.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/SortExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/WindowFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/WithColumn.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/ActionMovies.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/AverageMovieRating.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/BroadCastVariable_AVG_Movie_Rat.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/MovieRatingCounter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/movies.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Data_analysis_2/ratings.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Linux_file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/SparkContextOld.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/invalid.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/test01.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/text02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/text03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Practice/Test_files/text04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Spark_Optimization_Technique/KryoExample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Streaming/StateFulTransformation/MapWithStateDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Streaming/StateFulTransformation/TestMapWithState.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Streaming/StateFulTransformation/UpdateStateByKey.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/DataFrame/Avro_read_write.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/DataFrame/Avro_read_write.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/SparkExample/ReadMultipleCSV.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/SparkExample/ReadMultipleCSV.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DataFrame/Avro_read_write$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataFrame/Avro_read_write$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SparkExample/ReadMultipleCSV$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SparkExample/ReadMultipleCSV$.class" afterDir="false" />
-    </list>
+    <list default="true" id="887dfc88-006e-4504-92d9-2c2518f465f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
